@@ -1,6 +1,6 @@
 package app_HW_1215;
 
-public class page_8 {
+public class page_08 {
 	public static void main(String[] args) {
 		Car car1;
 		car1 = new Car();
